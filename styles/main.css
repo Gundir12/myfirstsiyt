@@ -1,0 +1,19 @@
+body {
+    background-color: whitesmoke;
+    color: white;   
+}
+div {
+    background-color:  #EE9EAF;
+    padding: 10px;
+}
+ol li {
+    background-color: #C66377;
+    list-style-position: inside;
+    margin-bottom: 10px;
+}
+
+span{
+    background-color: #9D364B;
+    padding-left: 10px;
+    padding-right: 10px;
+}
